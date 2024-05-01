@@ -56,6 +56,7 @@
                 <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Input Nama Produk">
             </div>
             <div class="col-2">
+                {{-- nomor 5 --}}
                 <label for="exampleInputPassword1" class="form-label">Jenis Produk</label>
                 <select class="form-select" id="jenisKelamin">
                     <option selected disabled>Pilih Produk</option>

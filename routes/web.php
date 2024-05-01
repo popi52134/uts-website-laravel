@@ -24,3 +24,7 @@ Route::get('/welcome', function () {
 Route::get('/nama', function () {
     return view('nama');
 });
+
+Route::get('/form', function () {
+    return view('form');
+});
